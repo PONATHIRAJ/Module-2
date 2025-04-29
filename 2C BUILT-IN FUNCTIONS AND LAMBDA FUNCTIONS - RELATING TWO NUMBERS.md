@@ -34,9 +34,8 @@ print(result(a, b))
 
 ### OUTPUT
 
-```
-![image](https://github.com/user-attachments/assets/0ff21e5e-6ce9-4fd6-9ccb-528214e2cf7b)
-```
+![image](https://github.com/user-attachments/assets/c386f43e-f3c2-477c-a4a8-3c076c63e033)
+
 
 ### RESULT
 
